@@ -1,3 +1,16 @@
 .logo {
-    background: url(imagens/logo-tag-topo.png)
+    background: url(imagens/logo-tag-topo.png);
+}
+
+.texto {
+    font-family: OpenSans;
+}
+
+. botão {
+    border-color: #ffffff;
+    border-width: 2px
+}
+
+.slider {
+    background: url(imagens/fundo-slide-pagina-princial.jpg);
 }
