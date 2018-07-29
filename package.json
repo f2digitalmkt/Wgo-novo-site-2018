@@ -1,0 +1,22 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Novo site do canto Wagninho design espeficio para ele",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f2digitalmkt/Wgo-novo-site-2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f2digitalmkt/Wgo-novo-site-2018/issues"
+  },
+  "homepage": "https://github.com/f2digitalmkt/Wgo-novo-site-2018#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
